@@ -1,0 +1,3 @@
+[submodule "modules/custom"]
+	path = modules/custom
+	url = https://github.com/Zachgitdev/submod.git
